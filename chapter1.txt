@@ -1,7 +1,12 @@
-cd :-  Folder direcly change.
+cd <Folder_name>:-  Folder direcly change.
 ls :- list
-mkdir :- make new direcly
-touch (mac os):- create new file
-code (windows):- Create new file
+mkdir <folder_name>:- make new direcly
+touch <file_name> (mac os):- create new file
+code <file_name> (windows):- Create new file
 
-It was the best of time, it was the worst of times.
+git init :- add git file in Folder
+git add <file_name> :- add file in git
+git add . :- all file added
+git status :- check status
+git log :- 
+git commit -m <"Type you commit">
