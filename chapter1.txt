@@ -1,0 +1,7 @@
+cd :-  Folder direcly change.
+ls :- list
+mkdir :- make new direcly
+touch (mac os):- create new file
+code (windows):- Create new file
+
+It was the best of time, it was the worst of times.
