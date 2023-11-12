@@ -11,3 +11,4 @@ git status :- check status
 git log :- 
 git commit -m <"Type you commit">
 git diff <file_name> :- check code difarent
+
