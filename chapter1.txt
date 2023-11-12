@@ -12,3 +12,7 @@ git log :-
 git commit -m <"Type you commit">
 git diff <file_name> :- check code difarent
 
+git push :- sent github
+git remote add <name> <url> 
+    ex:- git remote add origin <url>
+git push -u origin main :- add main branch
