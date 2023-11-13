@@ -17,12 +17,13 @@ git push :- sent github
 git remote add <name> <url> 
     ex:- git remote add origin <url>
 git push -u origin main :- add main branch
+git push -u origin main -u :- 
 git rm --cached -r * :- remove all file in git
 git clone <url>  
 git branch <name-of-branch> :- create new branch
 git branch :- display the all branch
 git checkout <name-of-branch> :- Switched the current branch
-git merge <name-of-branch>
+git merge <name-of-branch> :- mix file
 
 create file .gitignore (code . -r -g .gitignore) > type to hide file name > save :- not added git hide files
 https://github.com/github/gitignore/blob/main/Node.gitignore :- ignore code
