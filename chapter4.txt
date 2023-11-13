@@ -1,0 +1,28 @@
+cd <Folder_name>:-  Folder direcly change.
+ls :- list
+mkdir <folder_name>:- make new direcly
+touch <file_name> (mac os):- create new file
+code <file_name> (windows):- Create new file
+code . -r -g <file_name> :- open file
+Get-ChildItem -Force :- view hide file 
+
+git init :- add git file in Folder
+git add <file_name> :- add file in git
+git add . :- all file added
+git status :- check status
+git log :- 
+git commit -m <"Type you commit">
+git diff <file_name> :- check code difarent
+git push :- sent github
+git remote add <name> <url> 
+    ex:- git remote add origin <url>
+git push -u origin main :- add main branch
+git rm --cached -r * :- remove all file in git
+git clone <url> 
+git branch <name-of-branch> :- create new branch
+git branch :- display the all branch
+git checkout <name-of-branch> :- Switched the current branch
+git merge <name-of-branch>
+
+create file .gitignore (code . -r -g .gitignore) > type to hide file name > save :- not added git hide files
+https://github.com/github/gitignore/blob/main/Node.gitignore :- ignore code
